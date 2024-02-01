@@ -20,8 +20,11 @@ This is a simple Python script for mining bitcoins using the SHA-256 algorithm. 
 
 - Python 3.x
 - hashlib (standard library)
-
+  
+##License
+This project is licensed under the MIT License - see the LICENSE file for details.
 ## Example
 
 ```bash
 $ python bitcoin_mining.py
+
